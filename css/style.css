@@ -1240,7 +1240,7 @@ ol {
 	padding-top: 26px;
 }
 
-.product-item .pi-text .catagory-name {
+.product-item .pi-text .category-name {
 	font-size: 10px;
 	color: #b2b2b2;
 	font-weight: 700;
@@ -4054,7 +4054,7 @@ ol {
 		padding-right: 30px;
 	}
 	.blog-sidebar,
-	.produts-sidebar-filter {
+	.products-sidebar-filter {
 		padding-top: 50px;
 	}
 	.checkout-content input {
@@ -4225,7 +4225,7 @@ ol {
 		padding-left: 0;
 	}
 	.blog-sidebar,
-	.produts-sidebar-filter {
+	.products-sidebar-filter {
 		padding-top: 50px;
 	}
 	.checkout-content input {
